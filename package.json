@@ -1,0 +1,22 @@
+{
+  "name": "js-to-ts",
+  "version": "1.0.0",
+  "description": "JavaScript to TypeScript transpiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnh/js-to-ts.git"
+  },
+  "author": "Eivind Magnus Hvidevold <hvidevold@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emnh/js-to-ts/issues"
+  },
+  "homepage": "https://github.com/emnh/js-to-ts#readme",
+  "dependencies": {
+    "buntis": "^0.2.1"
+  }
+}
